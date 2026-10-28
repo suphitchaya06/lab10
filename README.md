@@ -1,4 +1,4 @@
-# dx212-lab9 — แอป "กินในงบ" (จบคาบ 9)
+# dx212-lab10git add README.md— แอป "กินในงบ" (จบคาบ 9)
 
 โค้ดตั้งต้นฉบับสมบูรณ์ของ dX212 Mobile Programming คาบ 9 (UI Design & Navigation) ใช้เป็นจุดเริ่มของ **Lab 10: Database & Supabase**
 
